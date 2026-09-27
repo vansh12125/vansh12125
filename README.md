@@ -122,9 +122,24 @@ I regularly practice **Data Structures & Algorithms** on LeetCode.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vansh12125&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
+<img
+  src="https://github-readme-stats.shion.dev/api?username=vansh12125&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+  height="165"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh12125&layout=compact&hide_border=true&theme=transparent" height="165">
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=vansh12125&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  height="165"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=vansh12125&theme=dark&hide_border=false"
+  width="65%"
+/>
 
 </p>
 
