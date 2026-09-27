@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · Java · Spring Boot · React · Node.js · TypeScript
 
-Building practical applications while going deeper into backend engineering, databases, security, and system design.
+I like building projects, learning new technologies, and understanding how things work.
 
 [GitHub](https://github.com/vansh12125) · [LeetCode](https://leetcode.com/u/Vansh_12125/) · [Email](mailto:vanshsahu9838@gmail.com)
 
@@ -14,11 +14,13 @@ Building practical applications while going deeper into backend engineering, dat
 
 ## About Me
 
-I'm a **BCA student at the University of Lucknow** and a full-stack developer interested in building reliable and production-oriented applications.
+I'm a **BCA student at the University of Lucknow** and a full-stack developer.
 
-I enjoy working across the stack, from designing databases and APIs to building frontend interfaces and real-time features.
+I enjoy building applications and working on both frontend and backend development.
 
-Currently, I'm focusing on **Java, Spring Boot, TypeScript, Node.js, DSA, databases, authentication, and system design**.
+I'm currently learning more about **Java, Spring Boot, TypeScript, Node.js, DSA, databases, authentication, and system design**.
+
+I mostly learn by building projects and solving problems.
 
 ---
 
@@ -65,40 +67,32 @@ Currently, I'm focusing on **Java, Spring Boot, TypeScript, Node.js, DSA, databa
 * Advanced Java and Spring Boot
 * Spring Security
 * Data Structures & Algorithms
-* Backend architecture
+* Backend development
 * System design
-* Database design and optimization
+* Database design
 * Redis and caching
-* WebSockets and real-time systems
+* WebSockets
 * Docker and deployment
-* Scalable backend development
-* Advanced TypeScript and Node.js
+* TypeScript and Node.js
+* Writing better and cleaner code
 
 ---
 
-# Featured Projects
+# Projects
 
 ## Online IDE
 
-<p align="center">
-<img src="./screenshots/online-ide.png" alt="Online IDE" width="90%">
-</p>
-
-A browser-based development environment for writing, managing, and running code.
+A browser-based IDE where users can create projects, manage files, write code, and run it.
 
 **Tech:** React · TypeScript · Vite · Node.js · Express · Prisma · PostgreSQL · WebSockets · Monaco Editor
 
-**Features:** Monaco editor, project and file management, code execution, terminal interface, HTML preview, WebSocket communication, authentication and authorization.
+**Features:** Code editor, project and file management, code execution, terminal, HTML preview, WebSockets, authentication and authorization.
 
 ---
 
 ## Authentication & Authorization System
 
-<p align="center">
-<img src="./screenshots/auth-system.png" alt="Authentication System" width="90%">
-</p>
-
-A backend-focused authentication system built to explore real-world authentication and security patterns.
+A backend project where I worked on different authentication and security features.
 
 **Tech:** Java · Spring Boot · Spring Security · MongoDB · Redis · JWT · OAuth 2.0
 
@@ -106,17 +100,13 @@ A backend-focused authentication system built to explore real-world authenticati
 
 ---
 
-## Resume Builder
+## Chat Application Backend
 
-<p align="center">
-<img src="./screenshots/resume-builder.png" alt="Resume Builder" width="90%">
-</p>
+A backend for a real-time chat application.
 
-A full-stack application for creating and managing resumes.
+**Tech:** Node.js · Express.js · MongoDB · WebSockets
 
-**Tech:** React · Node.js · Express · MongoDB
-
-**Focus:** Resume creation, form management, REST APIs, CRUD operations and MongoDB integration.
+**Focus:** Backend APIs, database operations and real-time communication.
 
 ---
 
@@ -124,13 +114,11 @@ A full-stack application for creating and managing resumes.
 
 I regularly practice **Data Structures & Algorithms** on LeetCode.
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Vansh_12125?theme=dark&ext=heatmap" alt="LeetCode Statistics" width="70%">
-</p>
+[View my LeetCode profile →](https://leetcode.com/u/Vansh_12125/)
 
 ---
 
-# GitHub Statistics
+# GitHub Stats
 
 <p align="center">
 
@@ -140,24 +128,21 @@ I regularly practice **Data Structures & Algorithms** on LeetCode.
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=vansh12125&hide_border=true&theme=transparent" width="65%">
-
-</p>
-
 ---
 
-# Development Interests
+# What I'm Interested In
 
-**Backend Engineering**
-Java · Spring Boot · Node.js · APIs · Security · Databases · System Design
-
-**Frontend Development**
-React · TypeScript · Next.js · Tailwind CSS
-
-**Software Engineering**
-DSA · Clean Code · Architecture · Docker · Testing · Deployment
+* Backend Development
+* Full Stack Development
+* Java & Spring Boot
+* React & TypeScript
+* REST APIs
+* Authentication & Security
+* Databases
+* WebSockets
+* System Design
+* Data Structures & Algorithms
+* Docker & Deployment
 
 ---
 
@@ -178,9 +163,3 @@ DSA · Clean Code · Architecture · Docker · Testing · Deployment
 </a>
 
 </p>
-
-<div align="center">
-
-**Build · Break · Understand · Improve**
-
-</div>
